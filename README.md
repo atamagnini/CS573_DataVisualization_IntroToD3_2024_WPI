@@ -23,7 +23,7 @@ Design Achievements:
     User Interface: A control panel is designed for easy interaction with the graphic elements.
     Responsive Graphics: The graphics respond to user interactions in real-time, enhancing the user experience and demonstrating the dynamic capabilities of D3.js.
 
-Live Demo: https://atamagnini.github.io/a1-ghd3/index.html
+Live Demo: [https://atamagnini.github.io/a1-ghd3/index.html](https://atamagnini.github.io/CS573_DataVisualization_IntroToD3_2024_WPI/)
 
 Screen recordings:
 
